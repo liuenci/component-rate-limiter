@@ -1,4 +1,3 @@
-
 component:
   rate_limiter:
     enabled: true
